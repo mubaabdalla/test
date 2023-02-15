@@ -5,4 +5,8 @@ if hungry=="yes":
     print("burger")
     print("fries")
 else:
-    print("nott problem")    
+    thristy=input("Are yuo thristy?")
+    if thristy=="yes":
+        print("Drink water")
+        print('dring soda')
+       
